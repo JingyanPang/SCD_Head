@@ -1,5 +1,5 @@
 ### This is a PyTorch implementation of the paper: [Abnormal cervical cells detection using YOLOV7 with  spatial and channel attention decoupled head]
-![ScreenShot](/images/framework.jpg)
+![ScreenShot](/images/1.png)
 
 ## Requirements
 
