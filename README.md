@@ -13,11 +13,11 @@
 
 ## Training
 Run the train.py file for network training
- --cfg select the configuration file for the network model
---data choose your own dataset
---epochs train epoch
---batch-size total batch for all GPUs
---name save to project/name 
+ "--cfg" select the configuration file for the network model
+"--data" choose your own dataset
+"--epochs" train epoch
+"--batch-size" total batch for all GPUs
+"--name" save to project/name 
 ## Testing
 Run test.py for network testing
 --weights configure the weights of the trained network
